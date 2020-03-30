@@ -1,0 +1,51 @@
+html {
+
+    background-color: lightblue;
+}
+
+.me{
+display: flex;
+flex-direction: column;
+
+}
+
+.name{
+    background-color: darkblue;
+    color: white;
+    font-size: 60px;
+    padding: 120px;
+border: 1px solid black;
+    text-align: center;
+}
+
+.pro{
+    border: 1px solid black;
+margin: 10px;
+
+}
+
+.edu{
+    border: 1px solid black;
+    margin: 10px;
+
+
+}
+
+.cert{
+    border: 1px solid black;
+    margin: 10px;
+
+
+}
+
+.exp{
+    border: 1px solid black;
+    margin: 10px;
+
+
+}
+
+.progress{
+    border: 1px solid black;
+    margin: 10px;
+}
